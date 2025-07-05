@@ -33,4 +33,4 @@ This is a C++ project that simulates a university course registration system. It
  Author:
  TAMER-ALOMARI.
  Email:
- Alomaritamer05@gmail.com
+ alomaritamer05@gmail.com
